@@ -1,2 +1,20 @@
 title: TheoretiCS Documentation
 description: Process workflow documentation for editors, editors in chief and managing editors for the TheoretiCS journal
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: default
+
+# Top navigation bar
+navigation:
+  - title: Home
+    url: /
+
+  - title: Survival Kit for Editors
+    url: /survival_editors.html
+
+  - title: Step by Step for Editors
+    url: /editors.html
