@@ -110,6 +110,8 @@ To know what constitutes a conflict of interest, please refer to the [conflict o
 If you mistakenly indicate that you have a conflict of interest with a
 submission, get in touch with the [managing editors](mailto:managing-editors@theoretics-journal.org) to reset this.
 
+You will not receive emails from the system about this paper until this step is complete.
+
 ### Assigned editors: invite reviewers
 
 You should now assign reviewers. Each paper should receive at least two reviews,
