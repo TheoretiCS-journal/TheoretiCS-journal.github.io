@@ -48,7 +48,7 @@
 
 This document is intended for TheoretiCS editors-in-chief to present the workflow of the
 journal, which is a two-phase process. If you want a quick reference of the
-workflow, have a look at the flowcharts for [phase 1](detailed-phase1.pdf) and [phase 2](detailed-phase2.pdf).
+workflow, have a look at the flowcharts for [phase 1](editors-phase1.pdf) and [phase 2](editors-phase2.pdf).
 
 ## Some terminology and basic actions
 
@@ -72,20 +72,20 @@ The "My assigned papers" tab contains papers you were assigned to as editor.
 The "My submissions" tab contains papers you submitted as author.
 The "My account" tab lists all your privileges.
 
-<img src="Dashboard.png" alt="Dashboard" width="600"/>
+<img src="img/Dashboard.png" alt="Dashboard" width="600"/>
 
 * The "Article management" page can be accessed either through the Dashboard or directly from the menu on the left: "Journal" expands into a list including "Article management".
 This page lists all of the papers visible by you.
 Click on a title to access the paper's page. The first time you access a paper, you will have to declare whether you have a conflict of interest or not.
 
-<img src="ArticleManagement.png" alt="Article Management" width="600"/>
+<img src="img/ArticleManagement.png" alt="Article Management" width="600"/>
 
 ### Writing comments
 
 You can discuss a paper with fellow editors by leaving comments on the paper's page.
 Once you access a paper, scroll down to "Editors comments" to see the comments and write one.
 
-<img src="Comments.png" alt="Comments" width="600"/>
+<img src="img/Comments.png" alt="Comments" width="600"/>
 
 Posted comments are notified by email to the editors assigned to the paper.
 
@@ -116,7 +116,7 @@ We should ensure the article is moved to the volume "Phase 1". Ideally the first
 
 To do this, scroll down to the "Volumes and section" tab and change "Master volume" to "Phase 1"
 
-<img src="GoPhase1.png" alt="Go to Phase 1" width="600"/>
+<img src="img/GoPhase1.png" alt="Go to Phase 1" width="600"/>
 
 
 ### Editors-in-chief: quickly evaluate
@@ -125,11 +125,11 @@ To do this, scroll down to the "Volumes and section" tab and change "Master volu
 * The first task with recently submitted papers is to quickly evaluate them.
 Click on the paper to access all information. The link for downloading the paper is highlighted in red in the picture below.
 
-<img src="Paper.svg" alt="Access paper" width="600"/>
+<img src="img/Paper.svg" alt="Access paper" width="600"/>
 
 Judge if the publication process should proceed further or not. If not, reject the article: scroll down to the "Article status" tab and click on "Change article status" then option "Reject this article" (highlighted in red)
 
-<img src="Reject.svg" alt="Reject" width="600"/>
+<img src="img/Reject.svg" alt="Reject" width="600"/>
 
 
 
@@ -144,8 +144,8 @@ At this point there is no distinction between Handling and Partner Editor, but
 try to assign first the handling editor and then the partner editor (the order
 is kept by the system).
 
-<img src="Assign_editors.png" alt="Assign Editors" width="500"/>
-<img src="suggested-editor.png" alt="Assign Editors" width="500"/>
+<img src="img/Assign_editors.png" alt="Assign Editors" width="500"/>
+<img src="img/suggested-editor.png" alt="Assign Editors" width="500"/>
 
 ### Editors-in-chief: update the Google Sheet
 
@@ -159,11 +159,11 @@ is kept by the system).
 Then, you should send a message to the handling editor. To do this, click on the
 mail icon next to their name in the "Editors" tab (highlighted in red below):
 
-<img src="Editor_mailing.svg" alt="Editor mailing" width="600"/>
+<img src="img/Editor_mailing.svg" alt="Editor mailing" width="600"/>
 
 Change the subject and fill the message (see picture below), according to the text that follows, filling in the blanks NN, XX, YY, and ZZ, adding the date, and changing your signature:
  
-<img src="Email_to_editors.png" alt="Email to editors" height="600"/>
+<img src="img/Email_to_editors.png" alt="Email to editors" height="600"/>
 
 <button onclick="copyDivToClipboard('msg-handling')">Copy handling editor
 message to clipboard</button>
@@ -275,7 +275,7 @@ To do the latter:
 Partner Editor: YYY
 Deadline for recommendation: ZZZ"
 
-<img src="Announce_editors.png" alt="Announce editors" width="600"/>
+<img src="img/Announce_editors.png" alt="Announce editors" width="600"/>
 
 If an editor has a conflict of interest with the paper, or decides not to handle
 the paper, they will get unassigned from the article, and you will receive an
@@ -330,23 +330,23 @@ To reject the article:
 
 * Scroll down to the "Article status" tab and click on "Change article status" then option "Reject this article" (highlighted in red)
 
-<img src="Reject.svg" alt="Reject" width="600"/>
+<img src="img/Reject.svg" alt="Reject" width="600"/>
 
 #### The article should be moved to Phase 2, but expecting a revision from the authors
 
 * Move the paper to phase 2: scroll down to the "Volumes and section" tab and change "Master volume" to "Phase 2":
 
-<img src="GoPhase2b.png" alt="Move to Phase 2" width="600"/>
+<img src="img/GoPhase2b.png" alt="Move to Phase 2" width="600"/>
 
 * Scroll down to the "Editors comments" tab and add a comment: "Moving the paper to Phase 2. A revision has been asked to start phase 2."
 
-<img src="Add_comments.png" alt="Add comment: Move to Phase 2" width="600"/>
+<img src="img/Add_comments.png" alt="Add comment: Move to Phase 2" width="600"/>
 
 * Scroll down to the "Article status" tab and click on "Ask for a minor
 revision" (highlighted in red), or "Ask for a major revision", depending on the
 revision needed
 
-<img src="GoPhase2.svg" alt="Ask for a revision for phase 2" width="600"/>
+<img src="img/GoPhase2.svg" alt="Ask for a revision for phase 2" width="600"/>
 
 * Replace the text with the message below, changing NN, XX, YY and your signature in the message.
 
@@ -398,7 +398,7 @@ is more complicated. It is the same as the above process, but then spoofing the 
 * Move the paper to phase 2: scroll down to the "Volumes and section" tab and change "Master volume" to "Phase 2":
 * Scroll down to the "Article status" tab and click on "Ask for a minor revision" (highlighted in red)
 
-<img src="GoPhase2.svg" alt="Ask for a revision for phase 2" width="600"/>
+<img src="img/GoPhase2.svg" alt="Ask for a revision for phase 2" width="600"/>
 
 * Replace the text with the message below, changing NN, XX, and your signature in the message.
 
@@ -427,7 +427,7 @@ Editor-in-Chief<br/>
 
 * Scroll up to the "Contributor" tab and click on the third button (highlighted in red) to spoof the identity of the author
 
-<img src="Spoofing.svg" alt="Spoofing" width="600"/>
+<img src="img/Spoofing.svg" alt="Spoofing" width="600"/>
 
 * Access the paper (using Dashboard, as above)
 * Download the article from arXiv by clicking on the link after "Source:" and then clicking "Download: PDF" on arXiv.
@@ -440,7 +440,7 @@ Editor-in-Chief<br/>
 * Make sure to access the latest version of the article: if the article has "Current status: Obsolete", follow the link in "Please note that this article is obsolete.
     It is an older version of this article". Then, if you do not have the options to change the article status, click "Go to the management page for this article".
 
-<img src="GoPhase2b.png" alt="Move to Phase 2" width="600"/>
+<img src="img/GoPhase2b.png" alt="Move to Phase 2" width="600"/>
 
 * Scroll down to the "Editors comments" tab and add a comment: 
 <div style="max-width: 700px; font-family: monospace; font-size: 70%"><div id="msg-comment-moved">
@@ -450,7 +450,7 @@ Handling Editor: <br>
 Partner Editor:
 </div></div>
 
-<img src="add_comment_moved.png" alt="Add comment: Paper moved to phase 2. Please proceed to invite phase 2 reviewers." width="600"/>
+<img src="img/add_comment_moved.png" alt="Add comment: Paper moved to phase 2. Please proceed to invite phase 2 reviewers." width="600"/>
 
 The paper will now have status "Submitted", and the editors should take care of it by inviting reviewers (manually).
 The old reviews and reviewers can be found by looking at the "Versions" tab of the article's page.
@@ -486,7 +486,7 @@ To accept:
 To reject:
 * Scroll down to the "Article status" tab and click on "Change article status"  and select "Reject this article" (highlighted in red)
 
-<img src="Final_decision.svg" alt="Final decision" width="600"/>
+<img src="img/Final_decision.svg" alt="Final decision" width="600"/>
 
 If accepted, the paper then proceeds to the layout editing phase for final
 publication.

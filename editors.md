@@ -35,13 +35,13 @@ The "My assigned papers" tab contains papers you were assigned to as editor.
 The "My submissions" tab contains papers you submitted as author.
 The "My account" tab lists all your privileges.
 
-<img src="Dashboard.png" alt="Dashboard" width="600"/>
+<img src="img/Dashboard.png" alt="Dashboard" width="600"/>
 
 * The "Article management" page can be accessed either through the Dashboard or directly from the menu on the left: "Journal" expands into a list including "Article management".
 This page lists all of the papers visible by you.
 Click on a title to access the paper's page. The first time you access a paper, you will have to declare whether you have a conflict of interest or not.
 
-<img src="ArticleManagement.png" alt="Article Management" width="600"/>
+<img src="img/ArticleManagement.png" alt="Article Management" width="600"/>
 
 ### Participating in the selection process
 
@@ -55,7 +55,7 @@ There are two ways editors can participate in the editorial process of each pape
 You can discuss a paper with fellow editors by leaving comments on the paper's page.
 Once you access a paper, scroll down to "Editors comments" to see the comments and write one.
 
-<img src="Comments.png" alt="Comments" width="600"/>
+<img src="img/Comments.png" alt="Comments" width="600"/>
 
 Posted comments are notified by email to the editors assigned to the paper.
 
@@ -92,7 +92,7 @@ The editors-in-chief assign two editors: handling and partner.
 * Access the paper (see above)
 * The first time you access a paper you have to declare whether you have a conflict of interest or not
 
-<img src="COI.png" alt="Conflict of interest" width="600"/>
+<img src="img/COI.png" alt="Conflict of interest" width="600"/>
 
 If you have a conflict of interest, you will not be able to access any
 information about this paper anymore. In particular, if you had been assigned as
@@ -117,7 +117,7 @@ of assigned reviewers is less than two, you will receive a reminder.
 Scroll down to "Reviewers" and click on "Invite a reviewer" to invite a reviewer,
 or on "Review this article" if you plan on reviewing it yourself.
 
-<img src="InviteReviewer.png" alt="Invite reviewers" width="600"/>
+<img src="img/InviteReviewer.png" alt="Invite reviewers" width="600"/>
 
 Please select external reviewers as usual, e.g., making sure that the reviewer
 has no
@@ -129,12 +129,12 @@ the article).
 To invite a reviewer, there are two possibilities:
 * Either the reviewer has already reviewed for TheoretiCS. If so, you can simply
   select them from the list: "Filter reviewers"
-<img src="SearchReviewer.png" alt="Search reviewer" width="600"/>
+<img src="img/SearchReviewer.png" alt="Search reviewer" width="600"/>
 * Or the reviewer has never reviewed for TheoretiCS, click on "New reviewer" on the bottom right.
 Please check whether the reviewer has an Episciences account by searching for them in "Invite a known user",
 otherwise fill in the email / name / first name fields in "Invite a new user".
 
-<img src="NewReviewer.png" alt="New reviewer" width="600"/>
+<img src="img/NewReviewer.png" alt="New reviewer" width="600"/>
 
 When inviting a reviewer, you have to complete an email message. The email is
 pre-filled with text, but you have to retain the text for the right phase. In
@@ -142,7 +142,7 @@ phase 1, keep the text that says "Phase 1", along with the signature. You should
 also set a deadline for the review, both above the "Subject" field, and in the
 text of the email (highlighted in red below).
 
-<img src="Invite_Reviewer_Email_annotate.svg" alt="Reviewer Invitation Email" width="600"/>
+<img src="img/Invite_Reviewer_Email_annotate.svg" alt="Reviewer Invitation Email" width="600"/>
 
 When picking a deadline for the review, please keep in mind your own deadline
 for giving a recommendation on the paper (this is indicated as a comment on the
@@ -181,7 +181,7 @@ sending an email to confirm it.)
 When a reviewer has completed their review, you can access them on the page of
 the article, in the "Ratings" tab, see below:
 
-<img src="Reviews.png" alt="Reviews" width="600"/>
+<img src="img/Reviews.png" alt="Reviews" width="600"/>
 
 ### Assigned editors: propose decision
 
@@ -189,7 +189,7 @@ Once the paper has status "Reviewed" and you do not wish any more reviews, you
 can propose a decision by updating the status of the article (do not chose "Ask
 for a minor/major revision"! Read below):
 
-<img src="DecisionPhase1.png" alt="Decision Phase 1" width="600"/>
+<img src="img/DecisionPhase1.png" alt="Decision Phase 1" width="600"/>
 
 You have 3 possibilities:
 
@@ -284,7 +284,7 @@ Please remember that revisions should only be used in Phase 2, not in phase 1!
 When you request a revision on a paper, you are asked to compose a message to
 the authors:
 
-<img src="Revision_Message.svg" alt="Revision Message" width="600"/>
+<img src="img/Revision_Message.svg" alt="Revision Message" width="600"/>
 
 Please do not forget to remove the reminder text in caps (highlighted in red
 above). Please also set the deadline for the revision request matching the period
