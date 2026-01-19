@@ -18,3 +18,21 @@ navigation:
 
   - title: Step by Step for Editors
     url: /editors.html
+
+  - title: For EiC and MEs
+    children:
+      - title: Helper for Editors-in-Chief
+        url: /editors-in-chief.html
+
+      - title: Publishing Procedure
+        url: /beyond-acceptance.html
+
+      - title: Publication Date Tool
+        url: /timezones.html
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      classes: wide
