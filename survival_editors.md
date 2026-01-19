@@ -14,6 +14,8 @@ This document is intended for TheoretiCS editors as a high-level survival kit. F
 Email the [managing editors: Mikaël Monet and David Purser](mailto:managing-editors@theoretics-journal.org)
 or the [editors-in-chief: Anca Muscholl and Shuchi Chawla](mailto:editors-in-chief@theoretics-journal.org)
 
+For a specific paper, you can ask in the "Editors comments" of the article management page.
+
 ## Features to keep in mind
 
 The reviewing process at TheoretiCS differs from the one followed

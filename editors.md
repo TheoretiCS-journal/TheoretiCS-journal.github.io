@@ -232,8 +232,7 @@ will also ask the authors for such a revision.
 ### Assigned editors: take care of the review process for Phase 2
 
 If the paper has been moved to phase 2 by the editors-in-chief without the need for a
-revision, its status should now be
-"Reviewed", and you can now invite reviewers again.
+revision, you can now invite reviewers again.
 
 If a revision was asked, you should wait for the authors to submit it, and then
 you can invite reviewers for phase 2.
@@ -278,9 +277,13 @@ do so, simply follow the same steps as in phase 1.
 As previously, the paper goes to status "Waiting for reviewing" once reviewers have been invited, goes to "Under review" when invitations were accepted, and goes to "Reviewed" once the reviews are completed.
 
 Once this process is finished, you can propose a decision. 
-For phase 2, this is: propose to accept, propose to reject, ask for minor revisions, or ask for major revisions.
+For phase 2, this is: 
+ - propose to accept,
+ - propose to reject, 
+ - ask for minor revisions, or 
+ - ask for major revisions.
 
-Revision requests are dealt with directly by you, without intervention from the editors-in-chief.
+Revision requests are dealt with directly by you the editors, without intervention from the editors-in-chief. 
 
 ### Revision requests
 
@@ -296,22 +299,15 @@ above). Please also set the deadline for the revision request matching the perio
 requested in the email body.
 
 One important checkbox is "Automatically reinvite reviewers" (at the bottom).
-The justification for this box is that every revision of a paper is a different
-paper in the Episciences platform. More precisely, authors "revise" their paper
-by submitting a new version of their submission on arXiv, and then importing it
-in the Episciences platform. The platform creates a new paper (with a new ID)
-for each arXiv version of a paper (but the papers are linked, i.e., the old
-versions of the paper will point to the latest version). Each paper version on
-the platform has its own set of reviewers.
 
 If the "Automatically reinvite reviewers" checkbox is not checked, once the
 authors submit a revision, you will have to manually re-invite the right
 reviewers on the new version of their paper.
 
-If the checkbox is checked, all reviewers from the current version of the paper
+If the checkbox is checked, all reviewers from the current revision of the paper
 will automatically be re-invited. This can only be used if all reviewers on the
-paper are willing to re-review the paper. In particular, it cannot be used if
-some of these reviewers only reviewed the paper for phase 1.
+paper are willing to re-review the paper. In particular, this **should not** be used if some of the 
+reviewers of the current version do not need or want to see the paper again.
 
 Hence, before ticking this box, please check that all reviewers currently listed
 in the "Reviewers" tab are indeed Phase 2 reviewers who are willing to see the
@@ -319,6 +315,18 @@ revised version. When in doubt, it is better to not tick the box and reinvite
 reviewers manually.
 
 ### Final verdict
+
+The final outcome is proposed the same as for Phase 1 decisions.
+
+
+<img src="img/DecisionPhase1.png" alt="Decision Phase 1" width="600"/>
+
+
+* *You want to propose rejection*
+  Simply choose "I suggest to reject the article".
+
+* *You want to propose to accept the paper* (with no further revisions to be checked)
+  Simply choose "I suggest to accept the article".
 
 Once you have proposed a final verdict (acceptance or rejection), a weekly digest will invite all
 editors to comment on the article. Once this period has elapsed, the editors-in-chief communicate the decision to the authors.
@@ -328,6 +336,7 @@ editors to comment on the article. Once this period has elapsed, the editors-in-
 Email the [managing editors: Mikaël Monet and David Purser](mailto:managing-editors@theoretics-journal.org)
 or the [editors-in-chief: Anca Muscholl and Uri Zwick](mailto:editors-in-chief@theoretics-journal.org)
 
+For a specific paper, you can ask in the “Editors comments” of the article management page.
 
 ## Useful links
 

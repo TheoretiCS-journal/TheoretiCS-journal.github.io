@@ -3,9 +3,19 @@
 search: false
 ---
 
+
+
+
 @charset "utf-8";
 
 @import "minimal-mistakes"; // main partials
+
+
+$theoretics-dark-blue: #324678;
+$theoretics-light-blue: #c8e6f0;
+$theoretics-dark-red: #c31e1e; // #b9161e
+$theoretics-light-red: #ff232e;
+$theoretics-beige: #d7beb4;
 
 
 /* Reduce sitewide font size */
@@ -19,4 +29,9 @@ html {
     width: 100%;
     padding-right: 200px;
   }
+}
+
+
+.site-title {
+  color: $theoretics-dark-red !important;
 }

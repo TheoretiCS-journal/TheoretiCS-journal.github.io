@@ -157,7 +157,7 @@ is kept by the system).
 * indicate roles (handling / partner)
 * mark these yellow if not yet requested
 * mark these grey if requested but not yet accessed
-* clear colouring after request
+* clear colouring after accessed
 
 ### Editors-in-chief: write messages to the editors to indicate roles (handling / partner)
 
@@ -259,8 +259,9 @@ Editor-in-chief<br/>
 
 ### Assigned editors: invite reviewers
 
-The editors should now assign reviewers. As long as the number of assigned
-reviewers is less than two, they will receive a reminder.
+The editors should now assign reviewers.
+
+They will receive on reminder if the number of reviewers is less than two. Subsequent reminders should be issued by EiCs and MEs
 
 ### Editors-in-chief: add a comment to announce the editors
 
@@ -276,9 +277,10 @@ Once the editors have reacted, you do two things:
 
 To do the latter:
 * Access the paper (using Dashboard, as above)
-* Scroll down to the "Editors comments" tab and add a comment: "Handling Editor: XXX
-Partner Editor: YYY
-Deadline for recommendation: ZZZ"
+* Scroll down to the "Editors comments" tab and add a comment: 
+  > Handling Editor: XXX  
+  > Partner Editor: YYY  
+  > Deadline for recommendation: ZZZ
 
 <img src="img/Announce_editors.png" alt="Announce editors" width="600"/>
 
@@ -290,7 +292,7 @@ changes to "Under review".
 
 Note that, once an article is submitted, a weekly email digest will invite all
 editors to comment on the submission. Comments will trigger an
-email notification to the assigned editors (and only them). It is up to the
+email notification to the assigned editors (and the EiCs and MEs). It is up to the
 assigned editors to contact the editors-in-chief if something unexpected arises
 based on the comments.
 
@@ -343,7 +345,8 @@ To reject the article:
 
 <img src="img/GoPhase2b.png" alt="Move to Phase 2" width="600"/>
 
-* Scroll down to the "Editors comments" tab and add a comment: "Moving the paper to Phase 2. A revision has been asked to start phase 2."
+* Scroll down to the "Editors comments" tab and add a comment: 
+  > Moving the paper to Phase 2. A revision has been asked to start phase 2
 
 <img src="img/Add_comments.png" alt="Add comment: Move to Phase 2" width="600"/>
 
@@ -448,12 +451,10 @@ Editor-in-Chief<br/>
 <img src="img/GoPhase2b.png" alt="Move to Phase 2" width="600"/>
 
 * Scroll down to the "Editors comments" tab and add a comment: 
-<div style="max-width: 700px; font-family: monospace; font-size: 70%"><div id="msg-comment-moved">
-Paper moved to phase 2. Please proceed to invite phase 2 reviewers.<br>
-<br>
-Handling Editor: <br>
-Partner Editor:
-</div></div>
+  > Paper moved to phase 2. Please proceed to invite phase 2 reviewers.  
+  >   
+  > Handling Editor:  
+  > Partner Editor: 
 
 <img src="img/add_comment_moved.png" alt="Add comment: Paper moved to phase 2. Please proceed to invite phase 2 reviewers." width="600"/>
 
@@ -522,7 +523,7 @@ The editors handle reviewing and discussion between themselves and the
 editor-in-chief by email.
 
 The acceptance/rejection proposition is not put on the platform but sent in a
-"shadow digest" by the editor-in-chief directly to all editors.
+"shadow digest" by the editor-in-chief/other ME directly to all editors.
 
 When the paper moves forward to phase 2, is revised, etc., these changes are
 implemented on Episciences by the editors-in-chief; but discussion never happens

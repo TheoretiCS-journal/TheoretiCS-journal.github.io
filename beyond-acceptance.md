@@ -15,7 +15,9 @@ stage of this process. The process is:
 1. The editor-in-chief accepts the paper (changed its status) and communicates
    to the author with the latest reviews and comments.
 
-2. *New (was EiCs)* Managing editors, send a separate follow up email to request the sources.
+   The acceptance decision template includes instructions on how to send the sources to the Managing editors.
+
+2. Managing editors mark on the publications spreadsheet.
 
 2. The author sends their files for final version (in some non-TheoretiCS
    style).
@@ -23,12 +25,12 @@ stage of this process. The process is:
 
 2. Managing editors ensure the sources go to Chief Layout Editor (currently: Thomas) to upload to Overleaf.
     - Provide submitted/revised/accepted dates?
+    - Mark files received on the publications spreadsheet
 
 3. The layout editors work on the paper on Overleaf, then hand it over to managing editors
 
 6. The managing editors change the volume (to "Volume XXX" (one per year)) in the
-   platform. This has the effect of creating an "article number". This number
-   cannot be changed after publication without emailing Episciences.  
+   platform. This has the effect of creating an "article number". 
    **Log this number in the spreadsheet to avoid clashes.**  
    Last few days of the year, might not complete all steps this year? Consider waiting until next year.
 
@@ -48,27 +50,27 @@ stage of this process. The process is:
       accepted (not the date that we received the sources as in step 2). If there was
       no revision throughout the entire reviewing process, we comment it out.
     * \ThCSaccepted{}: already pre-filled by layout editors
-    * \ThCSpublished{}: here we guess the day it will be announced on arXiv: <https://nathanael-fijalkow.github.io/TheoretiCS_doc/timezones.html>
+    * \ThCSpublished{}: here we guess the day it will be announced on arXiv: [timezones.html](timezones.html)
 
 8. Upload to arXiv
 
-    1. **Option 1**: Authors upload to arXiv 
+    1. **Option 1**: Authors upload to arXiv (on authors request)
         - Send an email to the authors asking them to upload to arXiv.   
-          Recommend the time zone tool to get the publication date correct: <https://nathanael-fijalkow.github.io/TheoretiCS_doc/timezones.html>
+          Recommend the time zone tool to get the publication date correct: [timezones.html](timezones.html)
 
-    2. **Option 2**: Managing editors upload to arXiv (still slightly experimental)
+    2. **Option 2**: Managing editors upload to arXiv (assumed)
         - Send an email to authors asking for the paper password.  
-          Maybe attach the current version to confirm exactly what will be submitted.  
+          Attach the current version to confirm exactly what will be submitted.  
           Clarify the author name/email we will use (in the proxy field).   
           Clarify that by sending the password, we have permission to upload with CC-BY licence.
         - Claim ownership on arXiv: <https://arxiv.org/auth/need-paper-password>   
           Check you're on the TheoretiCS account, not your own!   
           Are you an author of this paper? No
-        - Fill the publication date in the TeX: <https://nathanael-fijalkow.github.io/TheoretiCS_doc/timezones.html>  
-          Prepare the zip file, don't forget the .bbl, no need to upload the guide and some other files.
+        - Fill the publication date in the TeX: [timezones.html](timezones.html)  
+          Prepare the zip file, don't forget the .bbl, no need to upload the guide, old versions and some other files.
         - Submit an arXiv replacement:
             * Pick CC-BY licence
-            * In the proxy section, use the authors name and email (seems reasonable to take this from the previous arXiv version, or use the corresponding authors information)
+            * In the proxy section, use the authors name and email (use information agreed above)
             * Set the meta-data according to the standard:   
                 Title, Authors(s), Abstract: Fill these out normally as you would for any other article (check if the title/abstract has changed in the latest revision)  
                 Report number: Leave this field blank.  
@@ -89,14 +91,14 @@ stage of this process. The process is:
       the article
 
 9. Managing editors add the DOI in the platform (click "request DOI" and check
-   that the DOI assigned is the same as above)
+   that the DOI assigned is the same as above)  
+   *Remark:* We want the DOI to match the article number. DOIs are issued in order, not necessarily based on the article number. Therefore we must press the "Request DOI" button in the order of the article numbers. Therefore, we should not assign an article number until we can be sure of the order we will press "request DOI".
 
-9. Managing editors add the ORCID in the episciences system (using Update ORCID button on the management page), where these are provided on the PDF.
+9. Managing editors add ORCIDs on the episciences system (using Update ORCID button on the management page), where these are provided on the PDF.
 
 10. Managing editors click publish
 
 11. Managing editors check that the article shows up in the "latest articles"
     page (there seems to be a small delay of a few minutes)
 
-12. If the publication date on the pdf does not match to the publication date
-    on the platform, managing editors leave a comment in the spreadsheet
+12. Mark the publication date on *both* the main and publications spreadsheets
