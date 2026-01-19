@@ -3,7 +3,7 @@ layout: single
 title: TheoretiCS Helper for what happens once a paper is accepted
 ---
 
-> Authors: Antoine Amarilli, Nathanaël Fijalkow, Mikaël Monet, David Purser
+> Authors: Managing editors
 
 Once a paper has been accepted (i.e., it appeared in the previous digest as
 recommended for acceptance and no editor reacted to it), we start the

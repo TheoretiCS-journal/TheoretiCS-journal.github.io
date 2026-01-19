@@ -3,7 +3,8 @@ layout: single
 title: TheoretiCS Documentation
 ---
 
-> Authors: Antoine Amarilli, Nathanaël Fijalkow, Mikaël Monet, David Purser
+The TheoretiCS Documentation is written by current and former managing editors of TheoretiCS. 
+
 
 * [Survival Kit for editors](survival_editors.html)
 * [Helper for editors](editors.html)

@@ -6,10 +6,10 @@ title: Step by step helper for Editors
 ---
 
 
-> Authors: Antoine Amarilli, Nathanaël Fijalkow, Mikaël Monet, David Purser, Javier Esparza, Uri Zwick
+
+> Authors: Managing editors and Editors-in-chief
 
 This is the full guide, a quick guide is available here: [Survival Kit for editors](survival_editors.html)
-
 
 This document is intended for TheoretiCS editors to present the workflow of the
 journal, which is a two-phase process. If you want a quick reference of the

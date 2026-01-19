@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 ---
 
-> Authors: Antoine Amarilli, Nathanaël Fijalkow
+> Authors: Managing editors and Editors-in-chief
 
 <script>
     // https://stackoverflow.com/a/30810322
