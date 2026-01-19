@@ -1,3 +1,9 @@
+---
+layout: single
+title: Step by step helper for Editors
+---
+
+
 # TheoretiCS Helper for Editors
 
 > Authors: Antoine Amarilli, Nathanaël Fijalkow, Mikaël Monet, David Purser, Javier Esparza, Uri Zwick

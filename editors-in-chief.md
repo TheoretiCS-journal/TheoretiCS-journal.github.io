@@ -1,4 +1,7 @@
-# TheoretiCS Helper for Editors-in-chief
+---
+layout: single
+title: Helper for Editors-in-chief
+---
 
 > Authors: Antoine Amarilli, Nathanaël Fijalkow
 
