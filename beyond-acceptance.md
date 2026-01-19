@@ -1,4 +1,7 @@
-# TheoretiCS Helper for what happens once a paper is accepted
+---
+layout: single
+title: TheoretiCS Helper for what happens once a paper is accepted
+---
 
 > Authors: Antoine Amarilli, Nathanaël Fijalkow, Mikaël Monet, David Purser
 

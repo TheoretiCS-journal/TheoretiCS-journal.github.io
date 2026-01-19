@@ -1,0 +1,22 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes"; // main partials
+
+
+/* Reduce sitewide font size */
+html {
+  font-size: 16px; /* default is ~16px; adjust to taste */
+}
+
+@media (min-width: 64em) {
+  .page {
+    float: none;
+    width: 100%;
+    padding-right: 200px;
+  }
+}

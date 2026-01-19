@@ -1,0 +1,16 @@
+main:
+  - title: Home
+    url: /
+
+  - title: Survival Kit for Editors
+    url: /survival_editors.html
+
+  - title: Step by Step for Editors
+    url: /editors.html
+
+  - title: For EiC and MEs
+    url: /editors-in-chief.html
+
+  - title: Publishing Procedure
+    url: /beyond-acceptance.html
+

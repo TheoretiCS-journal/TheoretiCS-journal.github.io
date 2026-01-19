@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Helper for Editors-in-chief
+toc: true
+toc_sticky: true
 ---
 
 > Authors: Antoine Amarilli, Nathanaël Fijalkow
