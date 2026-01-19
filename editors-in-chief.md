@@ -100,7 +100,7 @@ editors and editors-in-chief can access it.
 
 ## Following the workflow
 
-We now give a step-by-step explanation of the flowcharts for [phase 1](detailed-phase1.pdf) and [phase 2](detailed-phase2.pdf).
+We now give a step-by-step explanation of the flowcharts for [phase 1](editors-phase1.pdf) and [phase 2](editors-phase2.pdf).
 
 ### Authors: submit an article
 

@@ -108,8 +108,7 @@ unassigned.
 To know what constitutes a conflict of interest, please refer to the [conflict of interest policy](https://theoretics.episciences.org/page/policies). If you are still unsure, please contact the editors-in-chief.
 
 If you mistakenly indicate that you have a conflict of interest with a
-submission, you need to get in touch with the editors-in-chief, who will write
-to the Episciences administrators to reset this.
+submission, get in touch with the [managing editors](mailto:managing-editors@theoretics-journal.org) to reset this.
 
 ### Assigned editors: invite reviewers
 

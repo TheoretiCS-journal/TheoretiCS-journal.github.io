@@ -26,9 +26,9 @@ TheoretiCS has a two-phase review system:
   - Phase 2: Checks the validity and makes suggestions to achieve a presentation of high quality. ([Flowchart](editors-phase2.pdf))
 
 * How papers progress between phases 
-  - At each phase:  after the two editors have reached agreement, the handling editor proposes a recommendation, by using the "mChange article status" dropdown, selecting the appropriate recommendation, and adding a comment (with some justification).
-  - Every recommendation is communicated via the weekly digest to the EB. 
-  - All members of the EB can see all articles (unless they have a [conflict of interest](https://theoretics.episciences.org/page/policies)) and  are invited to discuss the recommendation on the article management page: comment on them, support the decisions proposed by the editors assigned to a paper, or raise objections.
+  - At each phase:  after the two editors have reached agreement, the handling editor proposes a recommendation, by using the "Change article status" dropdown, selecting the appropriate recommendation, and adding a comment (with some justification).
+  - Every recommendation is communicated via the weekly digest to the Editorial Board. 
+  - All members of the Editorial Board can see all articles (unless they have a [conflict of interest](https://theoretics.episciences.org/page/policies)) and  are invited to discuss the recommendation on the article management page: comment on them, support the decisions proposed by the editors assigned to a paper, or raise objections.
   - Acceptance, rejection and move to phase 2 decisions are always communicated to the authors **by the editors-in-chief** following the outcome of the discussion, they are **not implemented by editors directly** (i.e., editors do not use the "accept" or "reject" actions of the "Change article status" dropdown).
 
 * The expected total duration of Phase 1 is ***THREE MONTHS***. 
