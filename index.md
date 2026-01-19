@@ -1,4 +1,7 @@
-# TheoretiCS Documentation
+---
+layout: home
+title: TheoretiCS Documentation
+---
 
 > Authors: Antoine Amarilli, Nathanaël Fijalkow, Mikaël Monet, David Purser
 

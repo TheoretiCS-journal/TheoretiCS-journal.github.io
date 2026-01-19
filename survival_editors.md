@@ -1,3 +1,9 @@
+---
+layout: single
+title: Survival Kit for Editors
+permalink: /survival_editors.html
+---
+
 # TheoretiCS Survival Kit for Editors
 
 > Authors: Managing editors and Editors-in-chief
