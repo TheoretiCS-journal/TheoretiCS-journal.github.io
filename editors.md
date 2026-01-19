@@ -151,7 +151,10 @@ text of the email (highlighted in red below).
 
 When picking a deadline for the review, please keep in mind your own deadline
 for giving a recommendation on the paper (this is indicated as a comment on the
-article).
+article).  
+ - Please select the date in the form, which will automatically be updated in the body (if you only change the text body this will lead to a mismatch between the system and the email, and result in incorrect reminder emails).  
+ - The system will autofill to one month, this default is the norm for phase 1. Extensions to this should be minimal, so that we can complete Phase 1 on time, but are at the discretion of the editor.
+
 
 It is normal for the email to contain text "%%INVITATION_URL%%". This will be
 automatically filled by the system when the email is sent.
@@ -272,7 +275,11 @@ Alternatively, as reviewing a paper for phase 1 does not commit reviewers to
 accepting to serve on phase 2, you can also invite new reviewers for phase 2. To
 do so, simply follow the same steps as in phase 1.
 
-#### What to do after sending the invitations
+
+When picking a deadline for the review, the system will autofill one month. In phase 2, the editor should choose a suitable review duration the reviewer to conduct a detailed verification of the results based on the length and depth of the paper. A starting point of around 1.5 to 2 months is normal, allowing reviewers to propose longer where justified.  Please select the date in the form, which will automatically be updated in the body (if you only change the text body this will lead to a mismatch between the system and the email, and result in incorrect reminder emails). 
+
+
+### Assigned editors: after the Phase 2 reviews are returned
 
 As previously, the paper goes to status "Waiting for reviewing" once reviewers have been invited, goes to "Under review" when invitations were accepted, and goes to "Reviewed" once the reviews are completed.
 
@@ -285,7 +292,9 @@ For phase 2, this is:
 
 Revision requests are dealt with directly by you the editors, without intervention from the editors-in-chief. 
 
-### Revision requests
+Where revisions are very minor or optional, you can proceeding to propose acceptance, trusting the authors to implement the changes before submitting their final versions for typesetting. However, in this case there is no option for the editors or reviewers to check the revision. If a reviewer has requested to see the revision, or you want to check the revision yourself as an editor, it is necessary to proceed with a minor revision.
+
+#### Revision requests
 
 Please remember that revisions should only be used in Phase 2, not in phase 1!
 
@@ -300,33 +309,42 @@ requested in the email body.
 
 One important checkbox is "Automatically reinvite reviewers" (at the bottom).
 
-If the "Automatically reinvite reviewers" checkbox is not checked, once the
-authors submit a revision, you will have to manually re-invite the right
-reviewers on the new version of their paper.
-
 If the checkbox is checked, all reviewers from the current revision of the paper
 will automatically be re-invited. This can only be used if all reviewers on the
 paper are willing to re-review the paper. In particular, this **should not** be used if some of the 
 reviewers of the current version do not need or want to see the paper again.
 
+If the "Automatically reinvite reviewers" checkbox is not checked, once the
+authors submit a revision, you will have to manually re-invite the right
+reviewers on the new version of their paper.
+
 Hence, before ticking this box, please check that all reviewers currently listed
-in the "Reviewers" tab are indeed Phase 2 reviewers who are willing to see the
+in the "Reviewers" tab are indeed Phase 2 reviewers who are willing to check the
 revised version. When in doubt, it is better to not tick the box and reinvite
 reviewers manually.
 
-### Final verdict
+#### Further reviews after a revision
+
+If further reviews are needed after a revision and the system has not invited them automatically, proceed to invite reviews in exactly the same way as above for phase 1 and phase 2. 
+
+In this phase there is no specific template, you will need to adapt the message as appropriate.
+
+For very minor revisions you may consider checking the revision as editors, reducing the burden on reviewers and often speeding up the process.
+
+#### Final verdict
 
 The final outcome is proposed the same as for Phase 1 decisions.
 
 
 <img src="img/DecisionPhase1.png" alt="Decision Phase 1" width="600"/>
 
+* *You want to propose acceptance of the paper* (with no further revisions to be checked)  
+  Choose "I recommend to accept the article".
 
-* *You want to propose rejection*
-  Simply choose "I suggest to reject the article".
+* *You want to propose rejection of the paper*  
+  Choose "I suggest to reject the article".  
+  *Note:* this is expected to be *very rare*, as papers in Phase 2 are expected to be accepted. Ensure a full justification is included in this case, possibly also consulting the Editors-in-chief.
 
-* *You want to propose to accept the paper* (with no further revisions to be checked)
-  Simply choose "I suggest to accept the article".
 
 Once you have proposed a final verdict (acceptance or rejection), a weekly digest will invite all
 editors to comment on the article. Once this period has elapsed, the editors-in-chief communicate the decision to the authors.
