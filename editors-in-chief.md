@@ -200,7 +200,7 @@ Please conclude the first phase of reviewing before the deadline mentioned above
 <br/>
 <strong>Second phase process:</strong> In the second phase, possibly different reviewers check the validity of the results and make suggestions to achieve a presentation of high quality. Submissions that qualify for the second phase are expected to eventually be accepted, sometimes in revised form, unless significant issues are detected or the desired quality of exposition is not achieved.<br/>
 <br/>
-We have step-by-step guidance for editors explaining our processes available here: <a href="https://nathanael-fijalkow.github.io/TheoretiCS_doc/editors.html">https://nathanael-fijalkow.github.io/TheoretiCS_doc/editors.html</a> If you have any difficulties with the system please feel free to ask the managing editors, David and Mikaël, either by posting an editors comment or via <a href="mailto:managing-editors@theoretics-journal.org">managing-editors@theoretics-journal.org</a>.<br/>
+We have step-by-step guidance for editors explaining our processes available here: <a href="https://theoretics-journal.github.io/editors.html">https://theoretics-journal.github.io/editors.html</a> If you have any difficulties with the system please feel free to ask the managing editors, David and Mikaël, either by posting an editors comment or via <a href="mailto:managing-editors@theoretics-journal.org">managing-editors@theoretics-journal.org</a>.<br/>
 <br/>
 Best regards,
 Shuchi / Anca<br/>
@@ -247,7 +247,7 @@ I have asked the handling editor to conclude this phase before the deadline ment
 <br/>
 <strong>Second phase process:</strong> In the second phase, reviewers check the validity of the results and make suggestions to achieve a presentation of high quality. Submissions that qualify for the second phase are expected to eventually be accepted, sometimes in revised form, unless significant issues are detected or the desired quality of exposition is not achieved.<br/>
 <br/>
-We have step-by-step guidance for editors explaining our processes available here: <a href="https://nathanael-fijalkow.github.io/TheoretiCS_doc/editors.html">https://nathanael-fijalkow.github.io/TheoretiCS_doc/editors.html</a> If you have any difficulties with the system please feel free to ask the managing editors, David and Mikaël, either by posting an editors comment or via <a href="mailto:managing-editors@theoretics-journal.org">managing-editors@theoretics-journal.org</a>.<br/>
+We have step-by-step guidance for editors explaining our processes available here: <a href="https://theoretics-journal.github.io/editors.html">https://theoretics-journal.github.io/editors.html</a> If you have any difficulties with the system please feel free to ask the managing editors, David and Mikaël, either by posting an editors comment or via <a href="mailto:managing-editors@theoretics-journal.org">managing-editors@theoretics-journal.org</a>.<br/>
 <br/>
 Best regards, <br/>
 Shuchi / Anca<br/>
